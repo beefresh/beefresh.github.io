@@ -252,7 +252,7 @@ textarea.form-control {
 .form-control:hover, .form-control:focus, .form-control:active {
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  border: 2px solid #ff7a5c;
+  border: 2px solid #ffbd4a;
 }
 
 .site-nav-toggle {
@@ -346,7 +346,7 @@ textarea.form-control {
 
 .section-heading .small-sub-heading {
   font-size: 14px;
-  color: #ff7a5c;
+  color: #ffbd4a;
 }
 
 @media (min-width: 992px) {
@@ -405,7 +405,7 @@ textarea.form-control {
 .ftco-46 .ftco-46-subheading {
   font-size: 14px;
   color: #b3b3b3;
-  color: #ff7a5c;
+  color: #ffbd4a;
   text-transform: uppercase;
   letter-spacing: .2em;
 }
@@ -621,9 +621,9 @@ textarea.form-control {
 
 .site-tab-nav li a.active {
   color: black;
-  color: #ff7a5c;
+  color: #ffbd4a;
   background: none;
-  border-bottom: 2px solid #ff7a5c;
+  border-bottom: 2px solid #ffbd4a;
 }
 
 .site-tab-nav, .nav-pills {
@@ -675,7 +675,7 @@ textarea.form-control {
 }
 
 .menu-food-item .price strong {
-  color: #ff7a5c;
+  color: #ffbd4a;
   font-size: 20px;
 }
 
@@ -699,7 +699,7 @@ textarea.form-control {
 }
 
 .footer-contact-widget .contact-email {
-  color: #ff7a5c;
+  color: #ffbd4a;
 }
 
 .footer-contact-widget .contact-phone {
@@ -743,7 +743,7 @@ textarea.form-control {
 
 .custom-icon {
   font-size: 70px;
-  color: #ff7a5c;
+  color: #ffbd4a;
 }
 
 .form-subscribe .form-group {
@@ -874,7 +874,7 @@ textarea.form-control {
 }
 
 .owl-carousel.centernonloop .owl-dots .owl-dot.active {
-  background: #ff7a5c;
+  background: #ffbd4a;
 }
 
 .owl-carousel.centernonloop .owl-dots .owl-dot:active, .owl-carousel.centernonloop .owl-dots .owl-dot:focus {
@@ -1011,11 +1011,11 @@ textarea.form-control {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  background: #ff7a5c;
+  background: #ffbd4a;
 }
 
 .owl-carousel.home-slider-loop-false .owl-dots .owl-dot.active {
-  border: 2px solid #ff7a5c;
+  border: 2px solid #ffbd4a;
 }
 
 .owl-carousel.home-slider-loop-false .owl-dots .owl-dot.active span {
@@ -1209,7 +1209,7 @@ textarea.form-control {
   margin: 0;
   border-radius: 50% !important;
   font-size: 16px;
-  background: #ff7a5c;
+  background: #ffbd4a;
   color: #fff;
 }
 
@@ -1388,7 +1388,7 @@ textarea.form-control {
 
 .menus .item .text .price {
   font-size: 30px;
-  color: #ff7a5c;
+  color: #ffbd4a;
   opacity: 1;
 }
 
@@ -1449,7 +1449,7 @@ textarea.form-control {
 }
 
 .accordion .btn-block[aria-expanded="true"] {
-  color: #ff7a5c;
+  color: #ffbd4a;
 }
 
 .accordion .btn-block[aria-expanded="true"] .icon:before {
